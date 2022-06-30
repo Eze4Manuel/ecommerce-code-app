@@ -14,6 +14,10 @@ then
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
+Requires a localhost backend to be setup first in order to fetch the data that will be rendered on the from end.
+You can find the backend with a simple to setup manual in this github repository.
+[Backend](https://github.com/Eze4Manuel/ecommerce-code-backend-app)
+
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
@@ -30,5 +34,5 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
  
